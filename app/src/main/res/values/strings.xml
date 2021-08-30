@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Camel Case</string>
+    <string name="camel_case_title">Enter Camel Case String:</string>
+    <string name="input_editText">Enter camel case here!</string>
+    <string name="word_displayed">Filler</string>
+    <string name="button_text">Uncamel!</string>
 </resources>
